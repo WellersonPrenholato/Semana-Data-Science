@@ -25,18 +25,17 @@ A base de dados utilizada é muito conhecida, contém as informações da cidade
 
 ### 📝 Diagrama Entidade de Relacionamento
 <h2 align="center">
-    <img alt="Proffy" src=".github/logo.png" height="250px" />
+    <img alt="Proffy" src=".github/DiagramaEntidadeRelacionamento.png" height="500px" />
 </h2>
 
-<h2 align="center">
+<p align="center">
     <h3>🧩 Data App</h3>
     <p>O intuito é desenvolver e publicar um data app, onde apartir de informações fornecidas pelo usuário o modelo de machine learning consegue estimar o valor para um determinado imóvel, sendo esse valor mais assertivo possível.<br>
 Buscamos refletir a realidade de acordo com a base de dados existente.</p>
     <img alt="Proffy" src=".github/imgApp.png" height="500px" />
-</h2>
+</p>
 
-
-<h2 align="center">
-    <h3>📚 Ferramentas e bibliotecas utilizadas</h3>
-    <img alt="Proffy" src=".github/logo.png" height="250px" />
-</h2>
+<p align="center">
+    <h3>📚 Ferramentas e bibliotecas utilizadas:</h3>
+    <img alt="Proffy" src=".github/FerramentasBibliotecas.png" height="250px" />
+</p>
