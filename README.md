@@ -29,7 +29,7 @@ A base de dados utilizada é muito conhecida, contém as informações da cidade
 </h2>
 
 <p align="center">
-    <h3>🧩 Data App</h3>
+    <h3>📱 Data App</h3>
     <p>O intuito é desenvolver e publicar um data app, onde apartir de informações fornecidas pelo usuário o modelo de machine learning consegue estimar o valor para um determinado imóvel, sendo esse valor mais assertivo possível.
     
 A ideia é refletir a realidade de acordo com a base de dados existente.</p>
