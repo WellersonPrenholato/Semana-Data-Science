@@ -2,7 +2,7 @@
 A equipe do [Minerando Dados](https://minerandodados.com.br/) promoveu a Semana de Data Science entre os dias 14 e 18 de setembro de 2020, um evento totalmente gratuito cujo objetivo é mostrar o que é Data Science e Machine Learning e como se tornar um profissional dessa área, ou ainda, como essa ciência e suas tecnologias estão mudando o mundo.
 
 <h2 align="center">
-    <img alt="Proffy" src=".github/logo.png" height="250px" />
+    <img alt="logo" src=".github/logo.png" height="250px" />
 </h2>
 
 ## 🔗 Alguns pontos abordados:
@@ -25,17 +25,23 @@ A base de dados utilizada é muito conhecida, contém as informações da cidade
 
 ### 📝 Diagrama Entidade de Relacionamento
 <h2 align="center">
-    <img alt="Proffy" src=".github/DiagramaEntidadeRelacionamento.png" height="500px" />
+    <img alt="DER" src=".github/DiagramaEntidadeRelacionamento.png" height="500px" />
 </h2>
 
 <p align="center">
     <h3>🧩 Data App</h3>
-    <p>O intuito é desenvolver e publicar um data app, onde apartir de informações fornecidas pelo usuário o modelo de machine learning consegue estimar o valor para um determinado imóvel, sendo esse valor mais assertivo possível.<br>
-Buscamos refletir a realidade de acordo com a base de dados existente.</p>
-    <img alt="Proffy" src=".github/imgApp.png" height="500px" />
+    <p>O intuito é desenvolver e publicar um data app, onde apartir de informações fornecidas pelo usuário o modelo de machine learning consegue estimar o valor para um determinado imóvel, sendo esse valor mais assertivo possível.
+    
+A ideia é refletir a realidade de acordo com a base de dados existente.</p>
+
+</p>
+<p align="center">
+    <img alt="app" src=".github/imgApp.png" height="500px" />
 </p>
 
 <p align="center">
     <h3>📚 Ferramentas e bibliotecas utilizadas:</h3>
-    <img alt="Proffy" src=".github/FerramentasBibliotecas.png" height="250px" />
+</p>    
+<p align="center">
+    <img alt="FerramentasBiblioteca" src=".github/FerramentasBibliotecas.png" height="250px" />
 </p>
